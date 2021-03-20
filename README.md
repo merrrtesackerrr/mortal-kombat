@@ -6,3 +6,4 @@
 - Normalize
 - jQuery
 - Fancybox (jQuery)
+#### Demo version: https://merrrtesackerrr.github.io/mortal-kombat/
